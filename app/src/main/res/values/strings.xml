@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">English Club</string>
+
+    <string name="login">login</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="paassword">Password</string>
+    <string name="logout">Logout</string>
+    <string name="leaderboard">Leaderboard</string>
+
+    <string name="google_map_API_key">AIzaSyCxKbFO8Y3nfqkT4sh9TwRipGRhTJZaIuE</string>
+
+
+    <string name="age">Age</string>
+
+    <string name="level">בחר את רמת האנגלית </string>
+
+    <string name="beginners">מתחילים</string>
+    <string name="basis">בסיסי</string>
+    <string name="advanced"> מתקדמים</string>
+
+    <string name="vocabulary_button" />
+    <string name="textview_vocabulary">אוצר מילים</string>
+    <string name="textview_picture">מילה בתמונה</string>
+    <string name="textview_word">מילה במשבצת</string>
+    <string name="translate_word">תרגום</string>
+    <string name="assembling_word">הקכבת מילה</string>
+
+    <string name="textview_grammar">דקדוק</string>
+    <string name="Welcome">שמחים לראות אותך</string>
+    <string name="Hey">היי!</string>
+    <string name="learn_english">Learn_English</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
